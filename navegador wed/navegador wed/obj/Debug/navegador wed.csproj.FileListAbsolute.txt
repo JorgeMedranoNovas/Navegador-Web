@@ -1,0 +1,11 @@
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\bin\Debug\navegador wed.exe.config
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\bin\Debug\navegador wed.exe
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\bin\Debug\navegador wed.pdb
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.csproj.AssemblyReference.cache
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.csproj.SuggestedBindingRedirects.cache
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador_wed.Form1.resources
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador_wed.Properties.Resources.resources
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.csproj.GenerateResource.cache
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.csproj.CoreCompileInputs.cache
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.exe
+C:\Users\A19C26784\source\repos\navegador wed\navegador wed\obj\Debug\navegador wed.pdb
